@@ -2,7 +2,7 @@
 
 
 
-# [SD-Unet: A Structured Dropout U-Net for Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/8942005)
+# [SD-Unet: A Structured Dropout U-Net for Retinal Vessel Segmentation (IEEE BIBE)](https://ieeexplore.ieee.org/document/8942005)
 
 ## Overview
 
